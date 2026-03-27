@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
+
+    <cardapio>
+
+        <prato id="p001">
+            <nome>Feijoada</nome>
+            <descricao>Feijoada com arroz, feijão, carne seca e linguiça</descricao>
+            <ingredientes>
+                <ingrediente>Feijão</ingrediente>
+                <ingrediente>Carne seca</ingrediente>
+                <ingrediente>Linguiça</ingrediente>
+                <ingrediente>Arroz</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 25,00</preco>
+            <calorias>800</calorias>
+            <tempoPreparo>40 min</tempoPreparo>
+        </prato>
+
+        <prato id="p002">
+            <nome>Brownie</nome>
+            <descricao>Brownie com cobertura de ninho</descricao>
+            <ingredientes>
+                <ingrediente>Chocolate</ingrediente>
+                <ingrediente>Açúcar</ingrediente>
+                <ingrediente>Farinha</ingrediente>
+                <ingrediente>Leite</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 8,00</preco>
+            <calorias>900</calorias>
+            <tempoPreparo>30 min</tempoPreparo>
+        </prato>
+
+        <prato id="p003">
+            <nome>Palha Italiana</nome>
+            <descricao>Palha Italiana de ninho e oreo</descricao>
+            <ingredientes>
+                <ingrediente>oreo</ingrediente>
+                <ingrediente>ninho</ingrediente>
+                <ingrediente>leite condensado</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 6,00</preco>
+            <calorias>600</calorias>
+            <tempoPreparo>20 min</tempoPreparo>
+        </prato>
+
+        <prato id="p004">
+            <nome>Lasanha</nome>
+            <descricao>Lasanha de carne e queijo</descricao>
+            <ingredientes>
+                <ingrediente>massa</ingrediente>
+                <ingrediente>carne moída</ingrediente>
+                <ingrediente>queijo</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 40,00</preco>
+            <calorias>900</calorias>
+            <tempoPreparo>40 min</tempoPreparo>
+        </prato>
+
+        <prato id="p005">
+            <nome>Macarronada</nome>
+            <descricao>Macarronada de carne e queijo</descricao>
+            <ingredientes>
+                <ingrediente>massa</ingrediente>
+                <ingrediente>carne moída</ingrediente>
+                <ingrediente>queijo</ingrediente>
+            </ingredientes>
+            <preco moeda="BRL">R$ 40,00</preco>
+            <calorias>900</calorias>
+            <tempoPreparo>40 min</tempoPreparo>
+        </prato>
+
+    </cardapio>
