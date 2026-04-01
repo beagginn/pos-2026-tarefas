@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+
+<quiz versao="1.0">
+    <disciplina>POS</disciplina>
+    <professor>
+        <nome>diego cirilo</nome>
+        <matrícula>12345</matrícula>
+    </professor>
+    <turma>infoweb4V</turma>
+    <data>2026-04-01</data>
+    <questões>
+        <questão>
+            <enunciado>O que significa HTML?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">Hyper Trainer Marking Language</alternativa>
+                <alternativa correta="sim">HyperText Markup Language</alternativa>
+                <alternativa correta="nao">High Text Machine Language</alternativa>
+                <alternativa correta="nao">Hyper Tool Multi Language</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual tag é usada para criar um link?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="sim">&lt;a&gt;</alternativa>
+                <alternativa correta="nao">&lt;link&gt;</alternativa>
+                <alternativa correta="nao">&lt;href&gt;</alternativa>
+                <alternativa correta="nao">&lt;url&gt;</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual linguagem é usada para estilizar páginas web?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">HTML</alternativa>
+                <alternativa correta="sim">CSS</alternativa>
+                <alternativa correta="nao">Python</alternativa>
+                <alternativa correta="nao">Java</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>Qual dessas é uma linguagem de programação?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">CSS</alternativa>
+                <alternativa correta="nao">HTML</alternativa>
+                <alternativa correta="sim">JavaScript</alternativa>
+                <alternativa correta="nao">XML</alternativa>
+            </alternativas>
+        </questão>
+        <questão>
+            <enunciado>O que o CSS controla em uma página web?</enunciado>
+            <pontuação>2</pontuação>
+            <alternativas>
+                <alternativa correta="nao">A estrutura</alternativa>
+                <alternativa correta="sim">O estilo e aparência</alternativa>
+                <alternativa correta="nao">O banco de dados</alternativa>
+                <alternativa correta="nao">A lógica do servidor</alternativa>
+            </alternativas>
+        </questão>
+    </questões>
+</quiz>
