@@ -1,0 +1,42 @@
+{
+  "cardapio": {
+    "prato": [
+      {
+        "nome": "feijoada",
+        "descricao": "feijoada com arroz, feijão, carne seca e linguiça",
+        "ingredientes": {
+          "ingrediente": ["feijão", "carne seca", "linguiça", "arroz"]
+        },
+        "preco": 25.00,
+        "calorias": 800
+      },
+      {
+        "nome": "brownie",
+        "descricao": "brownie com cobertura de ninho",
+        "ingredientes": {
+          "ingrediente": ["chocolate", "açúcar", "farinha", "leite"]
+        },
+        "preco": 8.00,
+        "calorias": 900
+      },
+      {
+        "nome": "palha italiana",
+        "descricao": "palha italiana de ninho e oreo",
+        "ingredientes": {
+          "ingrediente": ["oreo", "ninho", "leite condensado"]
+        },
+        "preco": 6.00,
+        "calorias": 600
+      },
+      {
+        "nome": "lasanha",
+        "descricao": "lasanha de carne e queijo",
+        "ingredientes": {
+          "ingrediente": ["massa", "carne moída", "queijo"]
+        },
+        "preco": 40.00,
+        "calorias": 900
+      }
+    ]
+  }
+}

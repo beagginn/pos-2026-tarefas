@@ -1,0 +1,76 @@
+{
+  "quiz": {
+    "versao": "1.0",
+    "disciplina": "POS",
+    "professor": {
+      "nome": "diego cirilo",
+      "matrícula": "12345"
+    },
+    "turma": "infoweb4V",
+    "data": "2026-04-01",
+    "questões": {
+      "questão": [
+        {
+          "enunciado": "O que significa HTML?",
+          "pontuação": 2,
+          "alternativas": {
+            "alternativa": [
+              { "texto": "Hyper Trainer Marking Language", "correta": "nao" },
+              { "texto": "HyperText Markup Language", "correta": "sim" },
+              { "texto": "High Text Machine Language", "correta": "nao" },
+              { "texto": "Hyper Tool Multi Language", "correta": "nao" }
+            ]
+          }
+        },
+        {
+          "enunciado": "Qual tag é usada para criar um link?",
+          "pontuação": 2,
+          "alternativas": {
+            "alternativa": [
+              { "texto": "<a>", "correta": "sim" },
+              { "texto": "<link>", "correta": "nao" },
+              { "texto": "<href>", "correta": "nao" },
+              { "texto": "<url>", "correta": "nao" }
+            ]
+          }
+        },
+        {
+          "enunciado": "Qual linguagem é usada para estilizar páginas web?",
+          "pontuação": 2,
+          "alternativas": {
+            "alternativa": [
+              { "texto": "HTML", "correta": "nao" },
+              { "texto": "CSS", "correta": "sim" },
+              { "texto": "Python", "correta": "nao" },
+              { "texto": "Java", "correta": "nao" }
+            ]
+          }
+        },
+        {
+          "enunciado": "Qual dessas é uma linguagem de programação?",
+          "pontuação": 2,
+          "alternativas": {
+            "alternativa": [
+              { "texto": "CSS", "correta": "nao" },
+              { "texto": "HTML", "correta": "nao" },
+              { "texto": "JavaScript", "correta": "sim" },
+              { "texto": "XML", "correta": "nao" }
+            ]
+          }
+        },
+        {
+          "enunciado": "O que o CSS controla em uma página web?",
+          "pontuação": 2,
+          "alternativas": {
+            "alternativa": [
+              { "texto": "A estrutura", "correta": "nao" },
+              { "texto": "O estilo e aparência", "correta": "sim" },
+              { "texto": "O banco de dados", "correta": "nao" },
+              { "texto": "A lógica do servidor", "correta": "nao" }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

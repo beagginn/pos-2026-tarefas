@@ -1,0 +1,103 @@
+{
+  "imobiliária": {
+    "imovel": [
+      {
+        "descricao": "casa com 3 quartos",
+        "proprietario": {
+          "nome": "clara silva",
+          "email": ["clara.silva@email.com"],
+          "telefone": ["(11) 1234-5678", "(11) 98765-4321"]
+        },
+        "endereco": {
+          "rua": "rua das flores",
+          "bairro": "centro",
+          "cidade": "sao paulo",
+          "numero": 10
+        },
+        "caracteristicas": {
+          "tamanho": 200.0,
+          "numQuartos": 3,
+          "numBanheiros": 2
+        },
+        "valor": 500000
+      },
+      {
+        "descricao": "apartamento com 2 quartos",
+        "proprietario": {
+          "nome": "joao pereira",
+          "telefone": ["(21) 2222-3333"]
+        },
+        "endereco": {
+          "rua": "avenida atlantica",
+          "bairro": "copacabana",
+          "cidade": "rio de janeiro",
+          "numero": 500
+        },
+        "caracteristicas": {
+          "tamanho": 85.0,
+          "numQuartos": 2,
+          "numBanheiros": 1
+        },
+        "valor": 350000
+      },
+      {
+        "descricao": "casa de luxo com piscina",
+        "proprietario": {
+          "nome": "mariana costa",
+          "email": ["mariana.costa@email.com"],
+          "telefone": ["(31) 4444-5555"]
+        },
+        "endereco": {
+          "rua": "rua das palmeiras",
+          "bairro": "jardins",
+          "cidade": "belo horizonte",
+          "numero": 200
+        },
+        "caracteristicas": {
+          "tamanho": 350.0,
+          "numQuartos": 4,
+          "numBanheiros": 3
+        },
+        "valor": 1200000
+      },
+      {
+        "descricao": "kitnet compacta",
+        "proprietario": {
+          "nome": "carlos mendes",
+          "telefone": ["(41) 6666-7777"]
+        },
+        "endereco": {
+          "rua": "rua central",
+          "bairro": "centro",
+          "cidade": "curitiba",
+          "numero": 45
+        },
+        "caracteristicas": {
+          "tamanho": 40.0,
+          "numQuartos": 1,
+          "numBanheiros": 1
+        },
+        "valor": 150000
+      },
+      {
+        "descricao": "casa de campo",
+        "proprietario": {
+          "nome": "fernanda rocha",
+          "email": ["fernanda.rocha@email.com"],
+          "telefone": ["(51) 8888-9999"]
+        },
+        "endereco": {
+          "rua": "estrada verde",
+          "bairro": "zona rural",
+          "cidade": "gramado"
+        },
+        "caracteristicas": {
+          "tamanho": 180.0,
+          "numQuartos": 3,
+          "numBanheiros": 2
+        },
+        "valor": 450000
+      }
+    ]
+  }
+}

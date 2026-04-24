@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio xmlns="http://cardapio.org" 
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://cardapio.org cardapio.xsd">
+
+    <prato>
+        <nome>feijoada</nome>
+        <descricao>feijoada com arroz, feijão, carne seca e linguiça</descricao>
+        <ingredientes>
+            <ingrediente>feijão</ingrediente>
+            <ingrediente>carne seca</ingrediente>
+            <ingrediente>linguiça</ingrediente>
+            <ingrediente>arroz</ingrediente>
+        </ingredientes>
+        <preco>25.00</preco>
+        <calorias>800</calorias>
+    </prato>
+
+    <prato>
+        <nome>brownie</nome>
+        <descricao>brownie com cobertura de ninho</descricao>
+        <ingredientes>
+            <ingrediente>chocolate</ingrediente>
+            <ingrediente>açúcar</ingrediente>
+            <ingrediente>farinha</ingrediente>
+            <ingrediente>leite</ingrediente>
+        </ingredientes>
+        <preco>8.00</preco>
+        <calorias>900</calorias>
+    </prato>
+
+    <prato>
+        <nome>palha italiana</nome>
+        <descricao>palha italiana de ninho e oreo</descricao>
+        <ingredientes>
+            <ingrediente>oreo</ingrediente>
+            <ingrediente>ninho</ingrediente>
+            <ingrediente>leite condensado</ingrediente>
+        </ingredientes>
+        <preco>6.00</preco>
+        <calorias>600</calorias>
+    </prato>
+
+    <prato>
+        <nome>lasanha</nome>
+        <descricao>lasanha de carne e queijo</descricao>
+        <ingredientes>
+            <ingrediente>massa</ingrediente>
+            <ingrediente>carne moída</ingrediente>
+            <ingrediente>queijo</ingrediente>
+        </ingredientes>
+        <preco>40.00</preco>
+        <calorias>900</calorias>
+    </prato>
+
+</cardapio>
