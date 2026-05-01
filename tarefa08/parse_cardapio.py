@@ -17,8 +17,6 @@ for prato in pratos:
 
 id_lido = int(input("Digite o id do prato para saber mais: "))
 prato = pratos[id_lido-1]
-print("---\n")
-
 
 elemento_nome = prato.getElementsByTagName('nome')[0]
 nome = elemento_nome.firstChild.nodeValue
@@ -29,8 +27,7 @@ preco = elemento_preco.firstChild.nodeValue
 elemento_calorias = prato.getElementsByTagName('calorias')[0]
 calorias = elemento_calorias.firstChild.nodeValue
 
-print("Nome:", nome)
-print("Descrição:", descricao)
-print("Preço:", preco)
-print("Calorias:", calorias)
-print("---\n")
+print("nome:", nome)
+print("descrição:", descricao)
+print("preço:", preco)
+print("calorias:", calorias)

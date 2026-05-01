@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imobiliária>
+
+    <imovel>
+        <descricao>casa com 3 quartos</descricao>
+        <proprietario>
+            <nome>clara silva</nome>
+            <email>clara.silva@email.com</email>
+            <telefone>(11) 1234-5678</telefone>
+            <telefone>(11) 98765-4321</telefone>
+        </proprietario>
+        <endereco>
+            <rua>rua das flores</rua>
+            <bairro>centro</bairro>
+            <cidade>sao paulo</cidade>
+            <numero>10</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>200.0</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>500000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>apartamento com 2 quartos</descricao>
+        <proprietario>
+            <nome>joao pereira</nome>
+            <telefone>(21) 2222-3333</telefone>
+        </proprietario>
+        <endereco>
+            <rua>avenida atlantica</rua>
+            <bairro>copacabana</bairro>
+            <cidade>rio de janeiro</cidade>
+            <numero>500</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>85.0</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>350000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>casa de luxo com piscina</descricao>
+        <proprietario>
+            <nome>mariana costa</nome>
+            <email>mariana.costa@email.com</email>
+            <telefone>(31) 4444-5555</telefone>
+        </proprietario>
+        <endereco>
+            <rua>rua das palmeiras</rua>
+            <bairro>jardins</bairro>
+            <cidade>belo horizonte</cidade>
+            <numero>200</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>350.0</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>1200000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>kitnet compacta</descricao>
+        <proprietario>
+            <nome>carlos mendes</nome>
+            <telefone>(41) 6666-7777</telefone>
+        </proprietario>
+        <endereco>
+            <rua>rua central</rua>
+            <bairro>centro</bairro>
+            <cidade>curitiba</cidade>
+            <numero>45</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>40.0</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>150000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>casa de campo</descricao>
+        <proprietario>
+            <nome>fernanda rocha</nome>
+            <email>fernanda.rocha@email.com</email>
+            <telefone>(51) 8888-9999</telefone>
+        </proprietario>
+        <endereco>
+            <rua>estrada verde</rua>
+            <bairro>zona rural</bairro>
+            <cidade>gramado</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>180.0</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>450000</valor>
+    </imovel>
+
+</imobiliária>
